@@ -1,3 +1,0 @@
-This simulation makes random alpha and beta scalas. And this scalas get square root for potentionals!
-But this potentionals is quantum(Actually for |-1> or |1>'s potentional). So we must get exponent of 2 and we calculate normal potentionals!
-And if you try long time you can see low potentionals can be real! Sometimus bigger potentional don't print!
